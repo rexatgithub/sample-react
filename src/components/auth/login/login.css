@@ -1,0 +1,9 @@
+body {
+  &::before {
+    background-image: url('/img/field.jpg');
+  }
+}
+
+a {
+  text-decoration: none !important;
+}
